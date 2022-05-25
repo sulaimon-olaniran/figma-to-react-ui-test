@@ -1,0 +1,13 @@
+.cart-button-component-container {
+  button {
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    background-color: #549a9a;
+    box-shadow: -1px 3px 22px 3px #8d9898b2;
+  }
+
+  button:hover {
+    background-color: #3f9595;
+  }
+}

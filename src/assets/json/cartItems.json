@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Okazi Leaves",
+    "id": "1",
+    "price": 30,
+    "weight": 1,
+    "tags": [
+      {
+        "letter": "M",
+        "color": "#406767"
+      }
+    ]
+  },
+
+  {
+    "name": "Okazi Leaves",
+    "id": "2",
+    "price": 30,
+    "weight": 4,
+    "tags": [
+      {
+        "letter": "R",
+        "color": "#3F4246"
+      }
+    ]
+  },
+
+  {
+    "name": "Rice Beans Leaves",
+    "id": "3",
+    "price": 50,
+    "weight": 1,
+    "tags": [
+      {
+        "letter": "M",
+        "color": "#277292"
+      },
+
+      {
+        "letter": "P",
+        "color": "#D1B378"
+      }
+    ]
+  },
+
+  {
+    "name": "Efo Stew Ingredients",
+    "id": "4",
+    "price": 45,
+    "weight": 1,
+    "tags": [
+      {
+        "letter": "R",
+        "color": "#3F4246"
+      }
+    ]
+  }
+]
